@@ -1,0 +1,90 @@
+* {
+    margin: auto;
+    
+    
+}
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+ li a{
+    
+    font-size: 15px;
+    color: #E5E7EB;
+    
+    text-decoration: none;
+}
+
+.hero-left {
+    font-size: 18px;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    padding-top: 10px;
+    border-left: 20px;
+}
+.hero-right{
+    background-color: #1f2937;
+    padding-left: 30px;
+}
+.hero-secondary {
+    font-size: 10px;
+    color: #E5E7EB;
+    padding-bottom: 5px;
+    
+    
+
+}
+.hero-button {
+    padding-left: 8px;
+    margin: auto;
+}
+#btn1 {
+    background-color: #3882f6;
+    padding-left: 10px;
+    padding-right: 10px ;
+    color: #E5E7EB;
+
+}
+.lady-lib img {
+    width: 100px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    
+}
+h1 {
+    font-size: 26px;
+    font-weight: bolder;
+    color: #1f2937;
+    
+}
+
+.hero-information {
+    background-color: #FFF8DC;
+    text-align: center;
+}
+.empire, .LA, .Seattle{
+    font-size: 10px;
+}
+.LA img, .empire img, .Seattle img {
+    width: 85px;
+    height: 85px;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+}
+
